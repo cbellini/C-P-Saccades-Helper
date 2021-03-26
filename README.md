@@ -3,7 +3,7 @@ A simple utility for calling out targets in C-P Saccades Exercises to Improve TB
 
 ## Purpose
 
-This procedure explores the relationship between the central (inward) and the peripheral (outward). It allows you to expand the volume of space which you can deal with at one time. IT also sets the stage for parallel process (being able to do several different tings at once), which is an important skill in reading, driving , playing sports, etc.![image](https://user-images.githubusercontent.com/164777/112664847-cc2ce200-8e30-11eb-8bbc-e675ddbe740e.png)
+This procedure explores the relationship between the central (inward) and the peripheral (outward). It allows you to expand the volume of space which you can deal with at one time. It also sets the stage for parallel process (being able to do several different tings at once), which is an important skill in reading, driving , playing sports, etc.
 
 ## Procedure
 
